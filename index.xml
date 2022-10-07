@@ -9,12 +9,22 @@
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Tue, 04 Oct 2022 18:42:46 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Engagements</title>
+      <link>http://example.org/engagements/</link>
+      <pubDate>Tue, 04 Oct 2022 21:35:47 -0400</pubDate>
+      
+      <guid>http://example.org/engagements/</guid>
+      <description>I am generally available for speaking engagements in the greater Boston area depending of course on availability. I am willing to travel to speak depending on arrangements.
+I have been wokring in the technology field for over 20 years in a wide aray of industries and am happy to speak about the past, present and future of the industry as I see it. Topics I&amp;rsquo;m fairly passionate about: DevOps, Infrustructure design, IT teams management, Technology in Education and Researech.</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>http://example.org/about/</link>
       <pubDate>Tue, 04 Oct 2022 19:52:45 -0400</pubDate>
       
       <guid>http://example.org/about/</guid>
-      <description>This is the intro to me. Lets see where it goes</description>
+      <description>With over 20 years in IT working in a wide array of industries. I see myself first and formost a technologist, a product of an up an coming digital age now working in the heart of the industry.</description>
     </item>
     
     <item>
